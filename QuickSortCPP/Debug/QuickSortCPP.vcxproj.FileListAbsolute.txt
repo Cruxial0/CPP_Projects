@@ -1,0 +1,2 @@
+C:\Users\Benjamin\source\repos\QuickSortCPP\Debug\QuickSortCPP.exe
+C:\Users\Benjamin\source\repos\QuickSortCPP\Debug\QuickSortCPP.pdb
