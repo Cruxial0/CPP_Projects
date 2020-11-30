@@ -1,0 +1,2 @@
+C:\Users\Benjamin\source\repos\HexToRgb\Debug\HexToRgb.exe
+C:\Users\Benjamin\source\repos\HexToRgb\Debug\HexToRgb.pdb
